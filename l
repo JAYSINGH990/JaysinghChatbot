@@ -3,7 +3,7 @@ function() {
    return document.querySelector(a)
   },
   t = document.querySelectorAll(".monitorContentGroup path");
- a(".monitorGroup");
+
  var f = a(".monitorScreen"),
   g = a(".monitorLogo"),
   h = a(".monitorStand"),
